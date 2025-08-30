@@ -146,4 +146,5 @@ CORS_ALLOWED_ORIGINS = [
 # This tells Django it's okay to accept POST requests from your Vercel site
 CSRF_TRUSTED_ORIGINS = [
     "https://bhuvanesh128.vercel.app",
+    "https://portfolio-backend-bhuvanesh.onrender.com",
 ]
